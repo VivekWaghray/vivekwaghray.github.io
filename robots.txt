@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://staticsiteboilerplate.com/sitemap.xml
+Host: staticsiteboilerplate.com
