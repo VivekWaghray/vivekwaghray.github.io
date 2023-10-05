@@ -1,1 +1,0 @@
-{"version":3,"file":"about.f0e7d6570fed89aa5a24.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack:///./javascripts/about.js"],"sourcesContent":["console.log('Hello from about.js!');\n"],"names":["console","log"],"sourceRoot":""}
