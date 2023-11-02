@@ -1,1 +1,0 @@
-{"version":3,"file":"index.1d353539bdaa47cd8f0f.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack:///./javascripts/index.js"],"sourcesContent":["console.log('Hello from index.js!');\n"],"names":["console","log"],"sourceRoot":""}
